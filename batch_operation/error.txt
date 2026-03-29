@@ -1,0 +1,36 @@
+總計處理：31 支程式，耗時約 21 分 18 秒
+
+失敗清單：
+mutant_1.cpp：無輸出
+mutant_2.cpp：無輸出
+mutant_3.cpp：無輸出
+mutant_4.cpp：無輸出
+mutant_5.cpp：無輸出
+mutant_6.cpp：無輸出
+mutant_7.cpp：無輸出
+mutant_8.cpp：無輸出
+mutant_9.cpp：無輸出
+mutant_10.cpp：無輸出
+mutant_11.cpp：無輸出
+mutant_12.cpp：無輸出
+mutant_13.cpp：無輸出
+mutant_14.cpp：無輸出
+mutant_15.cpp：無輸出
+mutant_16.cpp：無輸出
+mutant_17.cpp：無輸出
+mutant_18.cpp：無輸出
+mutant_19.cpp：無輸出
+mutant_20.cpp：無輸出
+mutant_21.cpp：無輸出
+mutant_22.cpp：無輸出
+mutant_23.cpp：無輸出
+mutant_24.cpp：無輸出
+mutant_25.cpp：無輸出
+mutant_26.cpp：無輸出
+mutant_27.cpp：無輸出
+mutant_28.cpp：執行失敗（退出碼 -1）
+mutant_29.cpp：執行失敗（退出碼 -1）
+mutant_30.cpp：執行失敗（退出碼 -1）
+mutant_31.cpp：執行失敗（退出碼 -1）
+
+已複製 original_program.cpp → operation_mutants/

@@ -1,0 +1,5 @@
+1.將benchmark放到original_program.cpp，執行時會自動複製到operation_mutnats裡面
+2.要執行relation operation，請在input.txt填入 1 1
+    執行mathmatic operation，請在input.txt填入 1 2
+3.執行產生的mutnats會放在all_mutants
+4.持行結束後會產生一個error.txt，會顯示執行失敗的mutants
