@@ -13,7 +13,7 @@
 核心指標：MS =(Killed Mutants\Total Mutants)*100 %。
 
 ## 3. Generator Reliability Test (工具鏈自我驗證)
-測試測試工具，提升Generator品質
+測試測試工具，提升Generator品質:
 對 Generator 進行變異，觀察其產出的 Mutants 是否與原始版本有異。
 - batch_operation/mutants_runner.py: 在變異過的 Generator 上執行 Benchmark。
 - batch_compare/mutant_name_diff_default.py: 比對源碼內容差異，判斷 Generator 的錯誤是否被偵測。
