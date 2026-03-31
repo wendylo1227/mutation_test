@@ -10,7 +10,7 @@
 自動化編譯、執行大量變異體，並與預期結果比對以計算 MS.
 - run_mutants/run_mutants.py: 自動化批次編譯 mutants/ 下的所有 .cpp，並記錄輸出至 output/.
 - run_mutants/compare_output.py: 比對 output/ 與 expected_output.txt，統計 Killed（包含 Wrong Output 與 Timeout）與 Survived 數量，產出 MS 報告.
-核心指標：MS =(Killed Mutants\Total Mutants)*100 %.
+核心指標：MS =(Killed Mutants/Total Mutants)*100 %.
 
 ## 3. Generator Reliability Test (工具鏈自我驗證)
 測試測試工具，提升Generator品質:
