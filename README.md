@@ -4,6 +4,41 @@ Improve software quality through Mutation Testing, enhance toolchain reliability
 
 ---
 
+- Improved Mutation Score (**MS**) of generator from **~42% to 85%**
+
+## Features
+
+- **Mutation Testing Framework**
+  - Generate mutants using multiple operator categories (AOR, ROR, LCR, etc.)
+  - Reduce redundant mutants through operator merging and filtering
+
+- **Automated Testing Pipeline**
+  - Batch compilation and execution of mutants
+  - Automatic result comparison and reporting
+
+- **Mutation Score Evaluation**
+  - Identify weak test cases through survived mutants
+  - Support timeout detection as killed mutants
+
+- **Toolchain Self-Validation**
+  - Apply mutation testing on the generator itself
+  - Detect faults in the mutation toolchain
+
+- **Software Redundancy Mechanism**
+  - Runtime failure detection
+  - Automatic switching to backup algorithms
+
+---
+
+- **Core Concepts**
+  - Mutation Testing
+  - Software Reliability
+  - Automated Testing
+  - Fault Tolerance
+  - Redundant System Design
+
+---
+
 ## 1. Mutant Generation & Reduction
 
 Study how to reduce the number of mutants by merging operator rules while maintaining a high Mutation Score (MS).
