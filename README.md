@@ -39,6 +39,8 @@ Improve software quality through Mutation Testing, enhance toolchain reliability
 
 ---
 
+## Project Structure
+
 ## 1. Mutant Generation & Reduction
 
 Study how to reduce the number of mutants by merging operator rules while maintaining a high Mutation Score (MS).
